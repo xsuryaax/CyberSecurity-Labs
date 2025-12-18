@@ -23,7 +23,7 @@ Ringkasan singkat: roadmap ini terdiri dari modul mingguan yang disusun per bula
 Fokus: mindset security dan pondasi SOC
 
 ### Minggu 1 — Security Foundation
-- [*] Review protokol jaringan: TCP/IP, DNS, HTTP/HTTPS (perspektif keamanan)
+- [x] Review protokol jaringan: TCP/IP, DNS, HTTP/HTTPS (perspektif keamanan)
 - [ ] Pahami CIA Triad (Confidentiality, Integrity, Availability)
 - [ ] Pelajari jenis serangan dasar: DoS, MITM, brute force
 - [ ] Instalasi tools: `Wireshark`, `Nmap`, `Kali Linux` (VM)
